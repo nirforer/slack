@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/slack-go/slack"
+	"github.com/nirforer/slack"
 )
 
 // A minimal example showing how to open a modal
